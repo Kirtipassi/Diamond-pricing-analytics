@@ -28,7 +28,7 @@ Exploratory and predictive analysis of **53,940 real diamond transactions**, fra
    - **R² = 0.98** on held-out test data
    - **11.4% mean absolute error**
    - Carat size is by far the strongest driver; clarity and color add measurable secondary premiums.
-6. **Interactive dashboard** — 4-panel Plotly dashboard (price vs. carat by cut, $/carat by clarity, inventory mix, $/carat by color).
+6. **Interactive dashboard** — 4-panel dashboard (price vs. carat by cut, $/carat by clarity, inventory mix, $/carat by color).
 
 ## Tech stack
 
