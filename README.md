@@ -2,7 +2,7 @@
 
 Exploratory and predictive analysis of **53,940 real diamond transactions**, framed as a business pricing/inventory problem. Built to demonstrate end-to-end data-analyst workflow: data cleaning, EDA, segmentation, outlier detection, and an interpretable predictive model.
 
-**[View the interactive dashboard →](#)** *(add your GitHub Pages link here once deployed)*
+**[View the interactive dashboard →](#)
 
 ![EDA Summary](eda_summary.png)
 
